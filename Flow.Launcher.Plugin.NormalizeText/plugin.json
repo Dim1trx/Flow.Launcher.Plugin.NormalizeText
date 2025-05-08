@@ -1,0 +1,12 @@
+{
+    "ID": "D03F8146660C46BC82529695E1CD6289",
+    "ActionKeyword": "nt",
+    "Name": "NormalizeText",
+    "Description": "A simple plugin to normalize texts",
+    "Author": "Dim1trx",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/Dim1trx/Flow.Launcher.Plugin.NormalizeText",
+    "IcoPath": "icon.png",
+    "ExecuteFileName": "Flow.Launcher.Plugin.NormalizeText.dll"
+}
